@@ -29,6 +29,19 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ### Решение 1
+Настройки проекта 
+![1-1](https://github.com/blackgult/802-hw/blob/main/1-1.PNG)
+
+![1-2]https://github.com/blackgult/802-hw/blob/main/1-2.PNG)
+
+![1-3]https://github.com/blackgult/802-hw/blob/main/1-3.PNG)
+
+Результат выполнения сборки
+![1-4]https://github.com/blackgult/802-hw/blob/main/1-4.PNG)
+
+![1-5]https://github.com/blackgult/802-hw/blob/main/1-5.PNG)
+
+![1-6]https://github.com/blackgult/802-hw/blob/main/1-6.PNG)
 
 ---
 
@@ -42,6 +55,13 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ### Решение 2
+Настройки проекта 
+![2-2]https://github.com/blackgult/802-hw/blob/main/2-2.PNG)
+
+![2-3]https://github.com/blackgult/802-hw/blob/main/2-3.PNG)
+Результат выполнения сборки
+
+![2-1]https://github.com/blackgult/802-hw/blob/main/2-1.PNG)
 
 ---
 
@@ -57,6 +77,15 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ### Решение 3
+Настройки проекта 
+
+![3-2]https://github.com/blackgult/802-hw/blob/main/3-2.PNG)
+
+Результат выполнения сборки
+
+![3-1]https://github.com/blackgult/802-hw/blob/main/3-1.PNG)
+
+![3-3]https://github.com/blackgult/802-hw/blob/main/3-3.PNG)
 
 ---
 ## Дополнительные задания* (со звёздочкой)
